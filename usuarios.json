@@ -4,7 +4,7 @@
         "login": "MarcelaAdmin",
         "senha": "marcela2000",
         "perfil": "admin",
-        "ultimo_login": "2025-05-23 12:45:51",
+        "ultimo_login": "2025-05-23 13:30:37",
         "tentativas_falhas": 0,
         "ativo": true
     },
@@ -15,7 +15,7 @@
         "perfil": "user",
         "ultimo_login": "2025-05-11 15:30:00",
         "tentativas_falhas": 0,
-        "ativo": false
+        "ativo": true
     },
     {
         "nome": "Felipe",

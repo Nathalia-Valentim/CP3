@@ -44,6 +44,8 @@ for i in range(3):
         u["ultimo_login"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         print(f"Último login: {u['ultimo_login']}")
         u["tentativas_falhas"] = 0
+        print("")
+        print(f"Tentativas falhas: {u['tentativas_falhas']} de 3")
 
         # esse é o menu caso a pessoa entre como administrador
         if u["perfil"] == "admin":
