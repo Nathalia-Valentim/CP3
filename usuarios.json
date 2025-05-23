@@ -4,16 +4,34 @@
         "login": "MarcelaAdmin",
         "senha": "marcela2000",
         "perfil": "admin",
-        "ultimo_login": "2025-05-22 23:34:28",
+        "ultimo_login": "2025-05-23 12:45:51",
         "tentativas_falhas": 0,
         "ativo": true
     },
     {
         "nome": "Lucas",
-        "login": "lucas123",
+        "login": "LucasUser",
         "senha": "lucas1990",
         "perfil": "user",
         "ultimo_login": "2025-05-11 15:30:00",
+        "tentativas_falhas": 0,
+        "ativo": false
+    },
+    {
+        "nome": "Felipe",
+        "login": "FelipeUser",
+        "senha": "felipe1234",
+        "perfil": "user",
+        "ultimo_login": "2025-05-23 13:01:38",
+        "tentativas_falhas": 3,
+        "ativo": false
+    },
+    {
+        "nome": "Lea",
+        "login": "LeaAdmin",
+        "senha": "lea1989",
+        "perfil": "admin",
+        "ultimo_login": "2025-05-23 12:47:11",
         "tentativas_falhas": 0,
         "ativo": true
     }
