@@ -53,7 +53,7 @@ for i in range(3):
 
             while opcao != "5":
                 print('''
-                \nMenu Admin:
+                \nMenu Administrador:
                 \n1. Listar usuários
                 \n2. Trocar senha de alguém
                 \n3. Bloquear/desbloquear alguém
