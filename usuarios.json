@@ -2,16 +2,16 @@
     {
         "nome": "Marcela",
         "login": "MarcelaAdmin",
-        "senha": "marcelaCorrea512",
+        "senha": "marcela2000",
         "perfil": "admin",
-        "ultimo_login": "2025-05-21 19:24:34",
+        "ultimo_login": "2025-05-22 23:34:28",
         "tentativas_falhas": 0,
         "ativo": true
     },
     {
         "nome": "Lucas",
         "login": "lucas123",
-        "senha": "userlucas45",
+        "senha": "lucas1990",
         "perfil": "user",
         "ultimo_login": "2025-05-11 15:30:00",
         "tentativas_falhas": 0,
